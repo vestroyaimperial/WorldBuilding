@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essencias/gene-elemental/elementos-atmosfericos/aerogen/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/essencias/gene-elemental/elementos-atmosfericos/aerogen/","dg-note-properties":{"tags":null}}
 ---
 
 Resumo:
